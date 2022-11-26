@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    max-width: 800px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1440px;
+    display: flex;
+    justify-content:space-around;
+   
+}
+
+.product_price{
+    font-size: 24px;
+}
+.product_name{
+    font-size: 22px;
+    color: gray;
+    margin-top: 10px;
+}
+button{
+margin-top: 10px;
+   width: 100%;
+   background-color: blue;
+   padding: 10px;
+   color:white;
+   border-radius: 10px;
+   font-size: 18px;
+}
+.block {
+    margin: 20px;
+}
+.nav{
+    text-align: left;
+  
+}
+p{
+    font-size: 16px;
+}
+
+.product-korz img{
+   width: 40px;
+   height: 40px;
+}
+
+.two img{
+    width: 150px;
+    height: 150px;
+}
+.monik-button{
+    background-color: rgb(10, 10, 167);
+}
